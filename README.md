@@ -1,2 +1,2 @@
 # mnist
-My first deep learning program recognition of handwritten digits
+My first deep learning program,recognition of handwritten digits
